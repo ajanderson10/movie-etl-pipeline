@@ -1,3 +1,4 @@
+<<<<<<< HEAD   
 # 🎬 Movie ETL Pipeline
 
 A beginner data engineering project that builds an end-to-end ETL 
@@ -65,3 +66,14 @@ movie-etl-pipeline/
 | The Dark Knight | $534,987,076 | 9.1 |
 | Forrest Gump | $330,455,270 | 8.8 |
 | Inception | $292,587,330 | 8.8 |
+=======
+movie-etl-pipeline/
+├── output/
+├── extract.py
+├── transform.py
+├── load.py
+├── pipeline.py
+├── requirements.txt
+├── README.md
+└── .gitignore
+>>>>>>> c4129c327bcd767a05f3b6edc329be0ffa1babbc
