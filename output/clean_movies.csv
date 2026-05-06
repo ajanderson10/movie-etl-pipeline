@@ -1,0 +1,11 @@
+Title,Year,Genre,Director,imdbRating,BoxOffice,Runtime,Language,processed_at
+The Dark Knight,2008,"Action, Crime, Drama",Christopher Nolan,9.1,534987076,152,"English, Mandarin",2026-05-05 21:21:30
+Inception,2010,"Action, Adventure, Sci-Fi",Christopher Nolan,8.8,292587330,148,"English, Japanese, French",2026-05-05 21:21:30
+Interstellar,2014,"Adventure, Drama, Sci-Fi",Christopher Nolan,8.7,203227580,169,English,2026-05-05 21:21:30
+The Matrix,1999,"Action, Sci-Fi","Lana Wachowski, Lilly Wachowski",8.7,177559005,136,English,2026-05-05 21:21:30
+Parasite,2019,"Drama, Thriller",Bong Joon Ho,8.5,53847897,132,"Korean, English",2026-05-05 21:21:30
+Forrest Gump,1994,"Drama, Romance",Robert Zemeckis,8.8,330455270,142,English,2026-05-05 21:21:30
+The Godfather,1972,"Crime, Drama",Francis Ford Coppola,9.2,136381073,175,"English, Italian, Latin",2026-05-05 21:21:30
+Pulp Fiction,1994,"Crime, Drama",Quentin Tarantino,8.8,107928762,154,"English, Spanish, French",2026-05-05 21:21:30
+GoodFellas,1990,"Biography, Crime, Drama",Martin Scorsese,8.7,46909721,145,"English, Italian, Hebrew, Yiddish",2026-05-05 21:21:30
+Whiplash,2014,"Drama, Music",Damien Chazelle,8.5,14003391,106,English,2026-05-05 21:21:30
